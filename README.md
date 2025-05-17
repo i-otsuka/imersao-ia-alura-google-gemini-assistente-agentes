@@ -2,7 +2,7 @@
 
 O **ASSISTENTE BUSINESS PARTY** é um assistente de Inteligência Artificial, desenvolvido com Gemini, que utiliza uma arquitetura multiagente para simplificar o planejamento de festas e eventos corporativos, abrangendo desde a geração de ideias criativas e planejamento estratégico até a elaboração e revisão de comunicações eficazes, sendo ideal para profissionais que buscam otimizar a organização de eventos.
 
-[https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png] (https://www.youtube.com/watch?v=DgE5HOMdz9g)
+[https://www.youtube.com/watch?v=DgE5HOMdz9g]
 
 **Bem-vindo ao ASSISTENTE BUSINESS PARTY!** 🎉
 
