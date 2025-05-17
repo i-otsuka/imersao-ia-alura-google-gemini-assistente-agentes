@@ -18,7 +18,7 @@ O ASSISTENTE BUSINESS PARTY utiliza uma arquitetura multiagente para cobrir toda
 * **Comunicação Eficaz:** Elaborar textos persuasivos e integrados para todas as peças de comunicação do evento.
 * **Revisão e Aprovação:** Garantir que todas as comunicações estejam alinhadas com os objetivos e diretrizes do evento.
 
-[https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true](https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true)
+![Print da tela](https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true)
 
 **Como funciona?**
 
