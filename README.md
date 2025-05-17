@@ -21,7 +21,7 @@ O ASSISTENTE BUSINESS PARTY utiliza uma arquitetura multiagente para cobrir toda
 ![Print da tela](https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true)
 
 **Como funciona?**
-
+[https://www.youtube.com/watch?v=DgE5HOMdz9g]
 O assistente opera através de quatro agentes distintos, cada um com um papel específico:
 
 1.  **BRAINSTORMER:** Atua como um time criativo, gerando as melhores ideias para o seu evento com base no briefing.
