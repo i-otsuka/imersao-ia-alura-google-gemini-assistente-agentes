@@ -1,5 +1,7 @@
 # ASSISTENTE BUSINESS PARTY - Seu Parceiro Inteligente na Organização de Eventos Corporativos
 
+O **ASSISTENTE BUSINESS PARTY** é um assistente de Inteligência Artificial, desenvolvido com Gemini, que utiliza uma arquitetura multiagente para simplificar o planejamento de festas e eventos corporativos, abrangendo desde a geração de ideias criativas e planejamento estratégico até a elaboração e revisão de comunicações eficazes, sendo ideal para profissionais que buscam otimizar a organização de eventos.
+
 **Bem-vindo ao ASSISTENTE BUSINESS PARTY!** 🎉
 
 Este projeto, desenvolvido durante a Imersão IA da Alura com o poder do Gemini, é um assistente de Inteligência Artificial projetado para simplificar e otimizar o planejamento de festas e eventos corporativos.
