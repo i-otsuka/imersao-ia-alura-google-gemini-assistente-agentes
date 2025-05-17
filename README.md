@@ -41,8 +41,7 @@ Gostaria de agradecer à Alura e ao Gemini por proporcionarem esta incrível opo
 
 **Contato:**
 
-#####################################################
-LINKEDIN:[https://www.linkedin.com/in/irotsuka/](https://www.linkedin.com/in/irotsuka/)
-GITHUB: [https://github.com/i-otsuka](https://github.com/i-otsuka)
-#####################################################
+**LINKEDIN:**[https://www.linkedin.com/in/irotsuka/](https://www.linkedin.com/in/irotsuka/)
+**GITHUB:**[https://github.com/i-otsuka](https://github.com/i-otsuka)
+
 
