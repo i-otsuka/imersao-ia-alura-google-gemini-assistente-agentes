@@ -11,7 +11,7 @@ Este projeto, desenvolvido durante a Imersão IA da Alura com o poder do Gemini,
 
 **O que ele faz?**
 
-O ASSISTENTE BUSINESS PARTY utiliza uma arquitetura multiagente para cobrir todas as etapas cruciais da organização de um evento, desde a concepção de ideias criativas até a elaboração das comunicações finais. Ele é capaz de:
+O **ASSISTENTE BUSINESS PARTY** utiliza uma arquitetura multiagente para cobrir todas as etapas cruciais da organização de um evento, desde a concepção de ideias criativas até a elaboração das comunicações finais. Ele é capaz de:
 
 * **Brainstorming Criativo:** Gerar diversas ideias inovadoras e personalizadas para o seu evento, considerando o briefing fornecido.
 * **Planejamento Estratégico:** Organizar o evento em detalhes, criando cronogramas, levantando custos e definindo a programação.
