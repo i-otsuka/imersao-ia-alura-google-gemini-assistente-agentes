@@ -29,12 +29,16 @@ O **ASSISTENTE BUSINESS PARTY** utiliza uma arquitetura multiagente para cobrir 
 
 [https://www.youtube.com/watch?v=DgE5HOMdz9g]
 
-O assistente opera através de quatro agentes distintos, cada um com um papel específico:
+O Assistente é pré configurado com informações da empresa. 
+O usuário precisa apenas fornecer algumas informações sobre o evento através de perguntas feitas pelo assisntente.
+Após o envio das respostas o assisntene inicia o processo de elaboração do planejamento do evento através de quatro agentes distintos, cada um com um papel específico:
 
 1.  🧠 **BRAINSTORMER:** Atua como um time criativo, gerando as melhores ideias para o seu evento com base no briefing.
 2.  🏗️ **PLANEJADOR:** Especialista em eventos, transforma as ideias em um plano de ação detalhado, incluindo programação, custos e cronograma.
 3.  ✍️ **COMUNICADOR:** Responsável por criar os textos para todas as comunicações do evento, garantindo que sejam eficazes e alinhados com a identidade da empresa.
 4.  🧐 **REVISOR:** Gestor experiente que garante a qualidade e o alinhamento de todas as comunicações com o briefing e o plano do evento.
+
+Ele pode ser utilizado para elaborar eventos como campanhas, convenções, eventos pontuais, treinamentos, festas de final de ano, ações de aniversários de funcionários etc.
 
 ## 🎯 \# Para quem é este projeto?
 
