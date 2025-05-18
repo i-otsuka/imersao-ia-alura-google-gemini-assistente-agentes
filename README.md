@@ -7,12 +7,12 @@ O **ASSISTENTE BUSINESS PARTY** é um assistente de Inteligência Artificial, de
 
 ![Capa](https://github.com/user-attachments/assets/073fc9a8-d5af-40d2-94a4-ada51ca346c7)
 
-Para ver o que ele faz:
-[[https://www.youtube.com/watch?v=DgE5HOMdz9g](https://www.youtube.com/watch?v=DgE5HOMdz9g)]
-
-## ✨ \# Bem-vindo ao ASSISTENTE BUSINESS PARTY\!
+## ✨ \# O ASSISTENTE BUSINESS PARTY\!
 
 Este projeto, desenvolvido durante a Imersão IA da Alura com o poder do Gemini, é um assistente de Inteligência Artificial projetado para simplificar e otimizar o planejamento de festas e eventos corporativos.
+
+Para ver o que ele faz:
+[[https://www.youtube.com/watch?v=DgE5HOMdz9g](https://www.youtube.com/watch?v=DgE5HOMdz9g)]
 
 ![Print da tela](https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true)
 
