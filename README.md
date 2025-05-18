@@ -11,6 +11,8 @@ Para ver o que ele faz:
 
 Este projeto, desenvolvido durante a Imersão IA da Alura com o poder do Gemini, é um assistente de Inteligência Artificial projetado para simplificar e otimizar o planejamento de festas e eventos corporativos.
 
+![Print da tela](https://github.com/i-otsuka/imersao-ia-alura-google-gemini-assistente-agentes/blob/main/Captura%20de%20tela%202025-05-17%20182933.png?raw=true)
+
 ## ❓ \# O que ele faz?
 
 O **ASSISTENTE BUSINESS PARTY** utiliza uma arquitetura multiagente para cobrir todas as etapas cruciais da organização de um evento, desde a concepção de ideias criativas até a elaboração das comunicações finais. Ele é capaz de:
