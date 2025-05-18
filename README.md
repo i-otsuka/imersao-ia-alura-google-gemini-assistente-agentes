@@ -45,7 +45,7 @@ Gostaria de agradecer à Alura e ao Gemini por proporcionarem esta incrível opo
 
 ## 👤 \# Autor
 
-Isac R. Otsuka
+**Isac R. Otsuka**
 Designer/Analista de Comunicação com mais de 11 anos de experiência, especializado em design para Comunicação Interna e Endomarketing + 7 anos de experiencia anterior no ramo de comunicação visual.
 Apaixonado por aprender e resolver quebra-cabeças e desafios.
 
